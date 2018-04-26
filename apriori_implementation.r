@@ -19,11 +19,11 @@ courses.ece.list <- as.list(courses.ece.concentrations)
 courses.cs.list <- as.list(courses.cs.concentrations)
 concentrations.list <- as.list(all_concentrations)
 
-#Create Association rules from the training data
+#Create Association rules from the training data, the apriori function is in-built
 rules.fall_courses <- apriori(fall_courses, parameter = list(support = 0.1, confidence = 0.5))
 rules.spring_courses <- apriori(spring_courses, parameter = list(support = 0.1, confidence = 0.5))
 
-#Sort and trim the rules for better association
+#Sort and trim the rules for better association, functions, sort and rules are in-built for arules
 rules.fall_courses.sorted <- sort(rules.fall_courses, by = "confidence")
 rules.spring_courses.sorted <- sort(rules.spring_courses, by = "confidence")
 rules.fall_courses.trimmed <-rules.fall_courses.sorted[!is.redundant(rules.fall.sorted)]
