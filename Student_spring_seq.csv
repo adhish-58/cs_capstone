@@ -1,0 +1,72 @@
+1,1,Divya,CS 6210 Adv Operating Systems,ECE 6140 Digital Systems Test,ECE 6553 Optimal Control,CS 6210 Adv Operating Systems
+1,5,Ishika,CS 6210 Adv Operating Systems,ECE 6553 Optimal Control,ECE 6552 Nonlinear Systems,CS 7641 Machine Learning
+1,7,Mithali,CS 6210 Adv Operating Systems,CS 6210 Adv Operating Systems,ECE 8823 Convex Optimization,ECE 6254 Stat Machine Learning
+1,18,Gauresh,CS 6210 Adv Operating Systems,ECE 6122 Adv Prog Techniques,ECE 8823 Convex Optimization,CS 7641 Machine Learning
+1,19,Avinash,CS 6210 Adv Operating Systems,ECE 8823 Convex Optimization,ECE 6607 Computer Comm Networks,ECE 6553 Optimal Control
+1,23,Pushyami,CS 6210 Adv Operating Systems,ECE 6254 Stat Machine Learning,ECE 6552 Nonlinear Systems,ECE 6553 Optimal Control
+1,31,Gamini,CS 6210 Adv Operating Systems,ECE 6122 Adv Prog Techniques,ECE 6133 Phys Design Automat-VLSI,ECE 6607 Computer Comm Networks
+1,33,Madhuriya,CS 6210 Adv Operating Systems,ECE 6102 Dependable Distribut Sys,ECE 6133 Phys Design Automat-VLSI,ECE 6140 Digital Systems Test
+1,34,Divya,CS 6210 Adv Operating Systems,ECE 6133 Phys Design Automat-VLSI,ECE 6102 Dependable Distribut Sys,ECE 6140 Digital Systems Test
+1,35,Chaitanya,CS 6210 Adv Operating Systems,ECE 6254 Stat Machine Learning,ECE 6552 Nonlinear Systems,CS 7641 Machine Learning
+1,36,HarshM,CS 6210 Adv Operating Systems,CS 6210 Adv Operating Systems,ECE 6607 Computer Comm Networks,CS 7641 Machine Learning
+1,39,Lipi,CS 6210 Adv Operating Systems,ECE 8823 Convex Optimization,ECE 6553 Optimal Control,ECE 6280 Cryptography & Security
+1,40,Ram,CS 6210 Adv Operating Systems,CS 6210 Adv Operating Systems,ECE 6612 Comp Network Security,CS 7641 Machine Learning
+1,44,Ashitha,CS 6210 Adv Operating Systems,CS 6210 Adv Operating Systems,ECE 6561 Computing for Controls,ECE 6552 Nonlinear Systems
+1,51,Sampada,CS 6210 Adv Operating Systems,ECE 6254 Stat Machine Learning,ECE 6552 Nonlinear Systems,CS 7641 Machine Learning
+1,55,Neelam,CS 6210 Adv Operating Systems,ECE 6553 Optimal Control,ECE 6610 Wireless Networks,ECE 6607 Computer Comm Networks
+1,56,HarshT,CS 6210 Adv Operating Systems,ECE 6552 Nonlinear Systems,ECE 6102 Dependable Distribut Sys,ECE 6140 Digital Systems Test
+1,58,Manyu,CS 6210 Adv Operating Systems,CS 6210 Adv Operating Systems,ECE 6612 Comp Network Security,CS 7641 Machine Learning
+2,36,Srikanth,ECE 6100 Adv Comput Architechture,ECE 6607 Computer Comm Networks,CS 6210 Adv Operating Systems,ECE 6350 Applied Electromagnetics
+3,3,AvinashN,ECE 6122 Adv Prog Techniques,ECE 6254 Stat Machine Learning,ECE 8823 Convex Optimization,ECE 6612 Comp Network Security
+3,4,Anand,ECE 6122 Adv Prog Techniques,ECE 6102 Dependable Distribut Sys,ECE 8903 Special Problem,CS 6210 Adv Operating Systems
+3,16,Amit,ECE 6122 Adv Prog Techniques,ECE 6122 Adv Prog Techniques,ECE 6607 Computer Comm Networks,CS 7641 Machine Learning
+3,23,Pranjali,ECE 6122 Adv Prog Techniques,ECE 6254 Stat Machine Learning,ECE 8823 Convex Optimization,ECE 6280 Cryptography & Security
+3,28,Aniket,ECE 6122 Adv Prog Techniques,ECE 6122 Adv Prog Techniques,ECE 6607 Computer Comm Networks,CS 7641 Machine Learning
+3,33,Aditi,ECE 6122 Adv Prog Techniques,ECE 8823 Convex Optimization,ECE 6280 Cryptography & Security,ECE 6610 Wireless Networks
+3,34,Monica,ECE 6122 Adv Prog Techniques,ECE 6610 Wireless Networks,CS 6210 Adv Operating Systems,ECE 6612 Comp Network Security
+3,36,Nishant,ECE 6122 Adv Prog Techniques,ECE 8823 Convex Optimization ,ECE 6254 Stat Machine Learning ,ECE 6607 Computer Comm Networks
+3,39,Vaibhav,ECE 6122 Adv Prog Techniques,ECE 6553 Optimal Control,ECE 6254 Stat Machine Learning ,ECE 8903 Special Problem
+3,40,Sonali,ECE 6122 Adv Prog Techniques ,ECE 8823 Convex Optimization,CS 6210 Adv Operating Systems,ECE 6280 Cryptography & Security
+3,42,Aravindan,ECE 6122 Adv Prog Techniques,ECE 6122 Adv Prog Techniques,ECE 6610 Wireless Networks,ECE 6612 Comp Network Security
+3,49,Ashwin,ECE 6122 Adv Prog Techniques,ECE 6122 Adv Prog Techniques,ECE 6610 Wireless Networks,ECE 6607 Computer Comm Networks
+3,50,Manasa,ECE 6122 Adv Prog Techniques,ECE 6254 Stat Machine Learning,ECE 6552 Nonlinear Systems,ECE 6553 Optimal Control
+3,56,Jash,ECE 6122 Adv Prog Techniques,ECE 6122 Adv Prog Techniques,ECE 6610 Wireless Networks,ECE 6607 Computer Comm Networks
+4,20,Alok,ECE 6140 Digital Systems Test,ECE 6552 Nonlinear Systems,ECE 6553 Optimal Control,ECE 8823 Convex Optimization
+4,59,Chaitanya,ECE 6140 Digital Systems Test,ECE 6254 Stat Machine Learning,ECE 6552 Nonlinear Systems,CS 7641 Machine Learning
+5,2,Ram,ECE 6254 Stat Machine Learning,CS 6210 Adv Operating Systems,ECE 6607 Computer Comm Networks,CS 7641 Machine Learning
+5,3,Srikanth,ECE 6254 Stat Machine Learning ,ECE 6612 Comp Network Security,CS 6210 Adv Operating Systems,ECE 6350 Applied Electromagnetics
+5,6,Monica,ECE 6254 Stat Machine Learning ,ECE 6610 Wireless Networks,CS 6210 Adv Operating Systems,ECE 6607 Computer Comm Networks
+5,17,Pushyami,ECE 6254 Stat Machine Learning,ECE 6254 Stat Machine Learning,ECE 6552 Nonlinear Systems,ECE 6553 Optimal Control
+5,26,HarshM,ECE 6254 Stat Machine Learning,CS 6210 Adv Operating Systems,ECE 6612 Comp Network Security,CS 7641 Machine Learning
+5,34,Manyu,ECE 6254 Stat Machine Learning,CS 6210 Adv Operating Systems,ECE 6607 Computer Comm Networks,CS 7641 Machine Learning
+5,35,Gamini,ECE 6254 Stat Machine Learning,ECE 6122 Adv Prog Techniques,ECE 6133 Phys Design Automat-VLSI,ECE 6607 Computer Comm Networks
+5,37,Mithali,ECE 6254 Stat Machine Learning,CS 6210 Adv Operating Systems,ECE 8823 Convex Optimization,ECE 6254 Stat Machine Learning
+5,53,Neelam,ECE 6254 Stat Machine Learning,ECE 6553 Optimal Control,ECE 6610 Wireless Networks,ECE 6612 Comp Network Security
+5,59,Ashitha,ECE 6254 Stat Machine Learning,CS 6210 Adv Operating Systems,ECE 6561 Computing for Controls,ECE 6552 Nonlinear Systems
+6,12,Anand,ECE 6461 Nanoelectronics,ECE 6102 Dependable Distribut Sys,ECE 8903 Special Problem,CS 6210 Adv Operating Systems
+7,2,Vaibhav,ECE 6552 Nonlinear Systems,ECE 6553 Optimal Control,ECE 6254 Stat Machine Learning ,ECE 8903 Special Problem
+7,10,Sonali,ECE 6552 Nonlinear Systems,ECE 6122 Adv Prog Techniques,ECE 6254 Stat Machine Learning,ECE 6279 Spatial Array Processing
+7,27,Sonali,ECE 6552 Nonlinear Systems,ECE 8823 Convex Optimization,CS 6210 Adv Operating Systems,ECE 6280 Cryptography & Security
+7,29,Neelam2,ECE 6552 Nonlinear Systems,ECE 6101 Parallel & Dist Comp Arch,ECE 6122 Adv Prog Techniques,ECE 6612 Comp Network Security
+7,30,Asswin,ECE 6552 Nonlinear Systems,ECE 6101 Parallel & Dist Comp Arch,ECE 6102 Dependable Distribut Sys,ECE 6110 CAD – Communication Networks
+7,37,Amit,ECE 6552 Nonlinear Systems,ECE 6122 Adv Prog Techniques,ECE 6612 Comp Network Security,CS 7641 Machine Learning
+7,45,Manasa1,ECE 6552 Nonlinear Systems,ECE 8823 Convex Optimization,ECE 6254 Stat Machine Learning,ECE 6552 Nonlinear Systems
+8,5,Ishika,ECE 6553 Optimal Control,ECE 6102 Dependable Distribut Sys,ECE 6612 Comp Network Security,ECE 6606 Coding Theory and Appl
+8,10,Bharatheesha jagirdar,ECE 6553 Optimal Control,ECE 7103 Advanced Memory Systems,ECE 6102 Dependable Distribut Sys,ECE 6461 Nanoelectronics
+8,11,Chaitanya,ECE 6553 Optimal Control,ECE 6552 Nonlinear Systems,ECE 6553 Optimal Control,ECE 6254 Stat Machine Learning
+8,13,Aniket Sugarcane,ECE 6553 Optimal Control,ECE 7103 Advanced Memory Systems,ECE 6422 Interface IC Design,ECE 6461 Nanoelectronics
+8,14,Divya,ECE 6553 Optimal Control,ECE 6132 Comp-aided VLSI Sys Dsgn,CS 7641 Machine Learning,ECE 6132 Comp-aided VLSI Sys Dsgn
+8,15,Pushyami,ECE 6553 Optimal Control,ECE 6254 Stat Machine Learning,ECE 6552 Nonlinear Systems,ECE 6102 Dependable Distribut Sys
+8,22,Varsha Parthasarathy,ECE 6553 Optimal Control,ECE 8823 Convex Optimization,ECE 6102 Dependable Distribut Sys,ECE 6605 Information Theory
+8,35,Pranjali Borkar,ECE 6553 Optimal Control,ECE 6254 Stat Machine Learning,ECE 6780 Medical Image Processing,ECE 6102 Dependable Distribut Sys
+8,38,Krishna Kumar Ramachandran,ECE 6553 Optimal Control,ECE 6612 Comp Network Security,ECE 6102 Dependable Distribut Sys,CS 6230 High Perf Parallel Comp
+8,53,Samapda Upasani,ECE 6553 Optimal Control,ECE 6552 Nonlinear Systems,ECE 6254 Stat Machine Learning,CS 7641 Machine Learning
+8,59,Avinash Nargund,ECE 6553 Optimal Control,ECE 6605 Information Theory,ECE 6606 Coding Theory and Appl,ECE 8823 Convex Optimization
+9,30,Neelam Chauhan,ECE 7103 Advanced Memory Systems,CS 6210 Adv Operating Systems,ECE 6102 Dependable Distribut Sys,ECE 6461 Nanoelectronics
+10,11,Iyer Vidhya Subramanian,ECE 8823 Convex Optimization,ECE 6553 Optimal Control,ECE 6552 Nonlinear Systems,ECE 6560 PDEs Image Proc & Vision
+10,39,Manasa Kadiri,ECE 8823 Convex Optimization,ECE 6553 Optimal Control,CS 7641 Machine Learning,CS 6476 Computer Vision
+10,40,Pradyumna B Suresha,ECE 8823 Convex Optimization,ECE 6552 Nonlinear Systems,ECE 6553 Optimal Control,ECE 6100 Adv Comput Architechture
+11,22,Dhaneshwaran Jotheeswaran,ECE 8903 Special Problem,ECE 6552 Nonlinear Systems,CS 7641 Machine Learning,CS 7630 Autonomous Robotics
+11,38,ALOK RAO,ECE 8903 Special Problem,ECE 6552 Nonlinear Systems,ECE 6553 Optimal Control,CS 7641 Machine Learning
+11,47,Vaibhav Dedhia,ECE 8903 Special Problem,ECE 6553 Optimal Control,ECE 6122 Adv Prog Techniques,ECE 8903 Special Problem
+11,56,Mithali Shivkumar,ECE 8903 Special Problem,ECE 6254 Stat Machine Learning,ECE 6255 Digit Proc-Speech Signal,CS 7641 Machine Learning
