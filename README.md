@@ -5,8 +5,9 @@ built with R and apriori data mining algorithm
 You will need to install the following to run the .r files:
 
 R Environment
+RStudio 
 
-RStudio Packages required :
+Packages required :
 
 arules
 shiny
