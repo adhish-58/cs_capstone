@@ -4,7 +4,7 @@ built with R and apriori data mining algorithm
 
 You will need to install the following to run the .r files:
 
-R Environment
+R Environment,
 RStudio 
 
 Packages required :
